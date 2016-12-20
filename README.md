@@ -4,3 +4,6 @@
 ```npm install```
 ```node server.js```
 ```webkit -w```
+
+##Cloning Repo:
+```git clone https://github.com/mattattaq/ReactWeather.git```
