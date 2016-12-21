@@ -3,7 +3,7 @@
 ####to run if node and npm are installed:
 ```npm install```
 ```node server.js```
-```webkit -w```
+```webpack -w```
 
 ##Cloning Repo:
 ```git clone https://github.com/mattattaq/ReactWeather.git```
